@@ -10,3 +10,8 @@ html {
     box-sizing: border-box;
 }
 
+.section {
+     display: none; 
+   
+}
+
